@@ -71,82 +71,34 @@ interests:
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Project
 
 ## 🎙️ Let's Talk — Real-Time Audio Calling Platform
 
-Developed a secure one-on-one audio calling platform using:
-
-* ⚛️ React Native
-* ☁️ AWS EC2 + API Gateway
-* 🔗 WebRTC
-* 🐘 PostgreSQL
+Built a secure real-time audio calling platform using React Native, WebRTC, AWS EC2, API Gateway, and PostgreSQL.
 
 ### Highlights
 
-* Real-time audio communication across iOS & Android
-* Persistent session management & signaling architecture
-* Fault-tolerant reconnections for improved reliability
-* Reduced dropped calls through monitoring & retry mechanisms
+* Cross-platform audio communication for iOS & Android
+* Persistent signaling & session management
+* Fault-tolerant reconnections & retry mechanisms
+* Reduced dropped calls through monitoring and logging
 * Served as Scrum Master coordinating sprint planning & delivery
 
 ---
 
-## 🎉 Happenly — Event Management Web App
+# 📂 Projects
 
-A full-stack event planning platform built using Streamlit, Supabase, and PostgreSQL.
+<div align="center">
 
-### Features
+| Project                            | Tech Stack                      | Description                                                                        |
+| ---------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------- |
+| 🎉 **Happenly**                    | Streamlit, Supabase, PostgreSQL | Full-stack event management platform with RSVP tracking, budgeting, and dashboards |
+| 📚 **Solaris Scrolls**             | Java, JavaFX, SQL               | Book exchange platform for university students with secure transaction handling    |
+| 📱 **iOS Mobile App**              | SwiftUI, Firebase               | Mobile application with real-time APIs, location services, and MVVM architecture   |
+| 🤖 **Automated Sensory Robot Car** | LEGO EV3, MATLAB, C/C++         | Autonomous robot car with obstacle detection and collision avoidance               |
 
-* RSVP management
-* Budget visualization
-* Task dashboards
-* Real-time event data processing
-* Cloud deployment on Streamlit Cloud
-
----
-
-## 📚 Solaris Scrolls — Book Exchange Platform
-
-Java-based full-stack platform helping university students buy and sell textbooks.
-
-### Built With
-
-* Java
-* JavaFX
-* SQL
-
-### Highlights
-
-* Secure transaction handling
-* Scalable architecture design
-* Functional testing & debugging
-* Agile software development workflow
-
----
-
-## 📱 iOS Mobile Application
-
-Built using SwiftUI, Firebase, and REST APIs.
-
-### Features
-
-* Location-based services
-* Real-time API integration
-* Persistent data storage
-* MVVM architecture implementation
-
----
-
-## 🤖 Automated Sensory Robot Car
-
-Autonomous sensory robot car developed using LEGO EV3, MATLAB, and C/C++.
-
-### Highlights
-
-* Obstacle detection using ultrasonic sensors
-* Real-time collision avoidance
-* Autonomous navigation system
+</div>
 
 ---
 
@@ -158,20 +110,6 @@ Distributed Systems
 Cloud Infrastructure
 Open Source Contribution
 ```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvika-pabba&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvika-pabba&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvika-pabba&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -191,7 +129,7 @@ Open Source Contribution
 
 # 🏆 Achievements
 
-* 🎓 Magna Cum Laude Graduate
+* 🎓 Magna Cum Laude Honors
 * 🎓 Dean's List
 * 🏅 New American University Scholarship Recipient
 
