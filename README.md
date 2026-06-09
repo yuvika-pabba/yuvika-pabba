@@ -4,6 +4,8 @@
 
 ### Software Engineer • Full-Stack Developer • Mobile Developer
 
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="450"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=800&lines=Building+full-stack+and+mobile+applications;React+Native+%7C+AWS+%7C+PostgreSQL;Computer+Science+Graduate+from+ASU;Actively+seeking+Software+Engineering+roles" />
 
 <br/>
