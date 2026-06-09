@@ -30,7 +30,7 @@
 
 ```yaml
 name: Yuvika Pabba
-location: Arizona, USA
+location: Arizona, USA (Open to Relocation in the US)
 
 education:
   [
